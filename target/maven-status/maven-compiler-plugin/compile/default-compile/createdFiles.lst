@@ -1,0 +1,4 @@
+org/example/CSVCassandraWrite$1.class
+org/example/CSVCassandraWrite.class
+org/example/Util.class
+org/example/SparkCassandraConnector.class
